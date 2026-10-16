@@ -1,0 +1,2 @@
+Charging card 1234: 100.0
+Mobile money from 0771234567: 40.0

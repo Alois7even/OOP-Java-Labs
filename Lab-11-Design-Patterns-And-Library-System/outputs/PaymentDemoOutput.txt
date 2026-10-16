@@ -1,2 +1,2 @@
-﻿Paid $50.0 using cash.
+Paid $50.0 using cash.
 Paid $100.0 using a card.

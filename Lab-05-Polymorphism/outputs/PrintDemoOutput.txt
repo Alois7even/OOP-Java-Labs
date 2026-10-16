@@ -1,0 +1,5 @@
+int: 42
+double: 3.14
+String: hello
+int[]: [1, 2, 3]
+int: 65

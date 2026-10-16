@@ -1,0 +1,5 @@
+Student[name=Tariro, age=20]
+s1 == s2? false
+s1.equals(s2)? true
+s1.equals(s3)? false
+Name component: Tariro

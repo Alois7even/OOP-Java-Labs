@@ -1,0 +1,5 @@
+Name: Kudzai, Age: 40
+Name: Tariro, Age: 20
+Name: Mr Moyo, Age: 45
+Tariro studies Computer Science
+Mr Moyo teaches Mathematics

@@ -1,0 +1,6 @@
+peek = c
+pop  = c
+pop  = b
+empty? false
+int stack popped 10
+Caught: Stack is empty

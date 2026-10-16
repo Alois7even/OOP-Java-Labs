@@ -1,0 +1,5 @@
+Toyota, 2018, 85000.0 km
+Mercedes, 1985, 210000.0 km
+Honda, 2022, 30000.0 km
+Mercedes antique? true
+Honda antique? false

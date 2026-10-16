@@ -1,0 +1,3 @@
+Tariro: 82 -> A
+Farai: 55 -> C
+Rejected: Marks must be between 0 and 100

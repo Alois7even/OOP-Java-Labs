@@ -1,0 +1,4 @@
+Balance: 400.0
+Cannot withdraw 5000.0; balance is 400.0
+Short by: 4600.0
+Final balance: 400.0

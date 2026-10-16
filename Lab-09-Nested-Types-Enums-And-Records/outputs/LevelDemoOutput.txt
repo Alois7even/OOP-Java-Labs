@@ -1,0 +1,3 @@
+LOW: Relax, no action needed
+MEDIUM: Keep an eye on it
+HIGH: Act immediately

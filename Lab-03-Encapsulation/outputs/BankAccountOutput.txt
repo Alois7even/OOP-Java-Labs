@@ -1,0 +1,4 @@
+[OPEN 500.00, DEPOSIT 250.00, WITHDRAW 100.00]
+Snapshot size: 3
+Live history size: 4
+History is read-only

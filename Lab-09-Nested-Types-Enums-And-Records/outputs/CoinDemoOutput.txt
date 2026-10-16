@@ -1,0 +1,5 @@
+2 x QUARTER
+1 x DIME
+1 x NICKEL
+3 x PENNY
+Total coins for 68c: 7

@@ -1,0 +1,5 @@
+Kudzai   2000.00
+Nyasha   4300.00
+Tatenda  3250.00
+Chipo    400.00
+Total payroll: 9950.00

@@ -1,0 +1,2 @@
+Tariro lives in Harare
+Farai has no address (null check avoided a crash)

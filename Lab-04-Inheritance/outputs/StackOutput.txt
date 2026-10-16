@@ -1,0 +1,4 @@
+peek = 3
+pop  = 3
+pop  = 2
+size = 1

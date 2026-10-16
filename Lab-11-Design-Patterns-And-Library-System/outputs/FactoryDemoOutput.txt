@@ -1,2 +1,2 @@
-﻿Sending email notification.
+Sending email notification.
 Sending SMS notification.

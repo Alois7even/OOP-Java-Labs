@@ -1,0 +1,2 @@
+25.00 C = 77.00 F = 298.15 K
+Rejected: Below absolute zero

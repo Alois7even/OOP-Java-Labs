@@ -1,0 +1,6 @@
+the -> 4
+and -> 2
+cat -> 2
+bird -> 1
+dog -> 1
+saw -> 1

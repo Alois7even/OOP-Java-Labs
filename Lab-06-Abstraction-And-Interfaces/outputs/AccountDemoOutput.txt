@@ -1,0 +1,2 @@
+Tariro   SavingsAccount  fee 0.00 -> balance 1100.00
+Farai    CurrentAccount  fee 5.00 -> balance 595.00

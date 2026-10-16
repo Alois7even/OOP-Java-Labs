@@ -1,0 +1,3 @@
+By name:  [Chipo(70), Farai(55), Tariro(82)]
+By marks: [Farai(55), Chipo(70), Tariro(82)]
+Marks desc: [Tariro(82), Chipo(70), Farai(55)]
