@@ -1,0 +1,67 @@
+﻿Book added successfully.
+Book added successfully.
+Book added successfully.
+
+--- ALL BOOKS ---
+ID: 1
+Title: Java Programming
+Author: John Smith
+Available: true
+--------------------
+ID: 2
+Title: Python Basics
+Author: Mary Jones
+Available: true
+--------------------
+ID: 3
+Title: Database Systems
+Author: Peter Brown
+Available: true
+--------------------
+
+--- SEARCH BOOK ---
+ID: 2
+Title: Python Basics
+Author: Mary Jones
+Available: true
+--------------------
+
+--- BORROW BOOK ---
+Java Programming has been borrowed.
+
+--- BOOKS AFTER BORROWING ---
+ID: 1
+Title: Java Programming
+Author: John Smith
+Available: false
+--------------------
+ID: 2
+Title: Python Basics
+Author: Mary Jones
+Available: true
+--------------------
+ID: 3
+Title: Database Systems
+Author: Peter Brown
+Available: true
+--------------------
+
+--- RETURN BOOK ---
+Java Programming has been returned.
+
+--- BOOKS AFTER RETURNING ---
+ID: 1
+Title: Java Programming
+Author: John Smith
+Available: true
+--------------------
+ID: 2
+Title: Python Basics
+Author: Mary Jones
+Available: true
+--------------------
+ID: 3
+Title: Database Systems
+Author: Peter Brown
+Available: true
+--------------------

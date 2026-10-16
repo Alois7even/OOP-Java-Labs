@@ -1,0 +1,3 @@
+﻿Configuration created.
+Application is running.
+Both variables refer to the same object.
